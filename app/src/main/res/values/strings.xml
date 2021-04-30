@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxBinding</string>
+    <string name="clear">Clear</string>
+    <string name="length">%1$d length</string>
+</resources>
